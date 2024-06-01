@@ -12,8 +12,8 @@ This project provides a `Dataset` class for handling the COCO dataset, specifica
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/coco-dataset-handler.git
-    cd coco-dataset-handler
+    git https://github.com/bahaayoussif/Computer-Vision-System-for-Object-Detection.git
+    cd Computer-Vision-System-for-Object-Detection
     ```
 
 2. **Install required packages**:
